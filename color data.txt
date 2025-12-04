@@ -1,0 +1,16 @@
+hero page color bg
+
+#0D46B8
+#0D98B8
+
+primary color orange
+
+#E6502B
+
+primary color blue 2
+
+#0C96B7
+
+highlight color 
+
+#FFFF00
